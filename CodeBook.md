@@ -1,6 +1,7 @@
 #   Code book for Human Activity Recognition Using Smartphones Dataset
 
 Raw data sourced from [zip-compressed archive](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+
 "run_analysis.R" R script outputs "UCI HAR ft.txt" fixed-width text file containing a three-dimensional contingency table.
 
 Contingency-table dimensions:
